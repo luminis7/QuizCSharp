@@ -36,7 +36,7 @@ string[] StringSelection(string[] array)
     }
     return newArray;
 } 
-//string[] array1 = {"Hello", "256", "war", ":-))))))"};
+
 string[] myArray = StringSelection(firstArray);
 
 void ShowArray(string[] array)
